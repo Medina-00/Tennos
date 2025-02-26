@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Tennos-Prueba\Tennos-Prueba.Infraestructura.persistence\bin\Debug\net8.0\Tennos-Prueba.Infraestructura.persistence.deps.json
+C:\Users\PC\source\repos\Tennos-Prueba\Tennos-Prueba.Infraestructura.persistence\bin\Debug\net8.0\Tennos-Prueba.Infraestructura.persistence.dll
+C:\Users\PC\source\repos\Tennos-Prueba\Tennos-Prueba.Infraestructura.persistence\bin\Debug\net8.0\Tennos-Prueba.Infraestructura.persistence.pdb
+C:\Users\PC\source\repos\Tennos-Prueba\Tennos-Prueba.Infraestructura.persistence\bin\Debug\net8.0\Tennos-Prueba.core.Domain.dll
+C:\Users\PC\source\repos\Tennos-Prueba\Tennos-Prueba.Infraestructura.persistence\bin\Debug\net8.0\Tennos-Prueba.core.Domain.pdb
+C:\Users\PC\source\repos\Tennos-Prueba\Tennos-Prueba.Infraestructura.persistence\obj\Debug\net8.0\Tennos-Prueba.Infraestructura.persistence.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Tennos-Prueba\Tennos-Prueba.Infraestructura.persistence\obj\Debug\net8.0\Tennos-Prueba.Infraestructura.persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Tennos-Prueba\Tennos-Prueba.Infraestructura.persistence\obj\Debug\net8.0\Tennos-Prueba.Infraestructura.persistence.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Tennos-Prueba\Tennos-Prueba.Infraestructura.persistence\obj\Debug\net8.0\Tennos-Prueba.Infraestructura.persistence.AssemblyInfo.cs
+C:\Users\PC\source\repos\Tennos-Prueba\Tennos-Prueba.Infraestructura.persistence\obj\Debug\net8.0\Tennos-Prueba.Infraestructura.persistence.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Tennos-Prueba\Tennos-Prueba.Infraestructura.persistence\obj\Debug\net8.0\Tennos-Prueba.Infraestructura.persistence.sourcelink.json
+C:\Users\PC\source\repos\Tennos-Prueba\Tennos-Prueba.Infraestructura.persistence\obj\Debug\net8.0\Tennos-P.37FE3864.Up2Date
+C:\Users\PC\source\repos\Tennos-Prueba\Tennos-Prueba.Infraestructura.persistence\obj\Debug\net8.0\Tennos-Prueba.Infraestructura.persistence.dll
+C:\Users\PC\source\repos\Tennos-Prueba\Tennos-Prueba.Infraestructura.persistence\obj\Debug\net8.0\refint\Tennos-Prueba.Infraestructura.persistence.dll
+C:\Users\PC\source\repos\Tennos-Prueba\Tennos-Prueba.Infraestructura.persistence\obj\Debug\net8.0\Tennos-Prueba.Infraestructura.persistence.pdb
+C:\Users\PC\source\repos\Tennos-Prueba\Tennos-Prueba.Infraestructura.persistence\obj\Debug\net8.0\ref\Tennos-Prueba.Infraestructura.persistence.dll
