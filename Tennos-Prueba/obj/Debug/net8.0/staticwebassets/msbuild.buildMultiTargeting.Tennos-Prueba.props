@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tennos-Prueba.props" />
+</Project>
