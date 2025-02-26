@@ -1,0 +1,6 @@
+@Tennos_Prueba_HostAddress = http://localhost:5021
+
+GET {{Tennos_Prueba_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
