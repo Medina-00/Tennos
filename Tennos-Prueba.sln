@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tennos-Prueba", "Tennos-Prueba\Tennos-Prueba.csproj", "{C268B37F-5480-45AF-BD84-F2E0B3240711}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{D01BEA49-D3D6-40B4-A9B9-E2554822BD4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{4AF07C0E-4765-406C-B4FC-5AF04DB6D9EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tennos-Prueba.core.Domain", "Tennos-Prueba.core.Domain\Tennos-Prueba.core.Domain.csproj", "{F855165E-2DC9-4F69-9DE7-E9985FC272AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestructura", "Infraestructura", "{269D9452-5FEB-44CD-88F1-E463CFA32C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tennos-Prueba.Infraestructura.persistence", "Tennos-Prueba.Infraestructura.persistence\Tennos-Prueba.Infraestructura.persistence.csproj", "{6D293310-1EE5-426F-A29A-362B31FF96F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{EE73EB58-3206-4FA0-BA53-76D5B4205B30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{8F64A09E-DD6F-4BF8-B9A7-AB99E5A49406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tennos-Prueba.web", "Tennos-Prueba.web\Tennos-Prueba.web.csproj", "{E78B5F88-932D-4AB7-AFC4-C5E9A294EAA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C268B37F-5480-45AF-BD84-F2E0B3240711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C268B37F-5480-45AF-BD84-F2E0B3240711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C268B37F-5480-45AF-BD84-F2E0B3240711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C268B37F-5480-45AF-BD84-F2E0B3240711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F855165E-2DC9-4F69-9DE7-E9985FC272AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F855165E-2DC9-4F69-9DE7-E9985FC272AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F855165E-2DC9-4F69-9DE7-E9985FC272AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F855165E-2DC9-4F69-9DE7-E9985FC272AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D293310-1EE5-426F-A29A-362B31FF96F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D293310-1EE5-426F-A29A-362B31FF96F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D293310-1EE5-426F-A29A-362B31FF96F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D293310-1EE5-426F-A29A-362B31FF96F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E78B5F88-932D-4AB7-AFC4-C5E9A294EAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78B5F88-932D-4AB7-AFC4-C5E9A294EAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78B5F88-932D-4AB7-AFC4-C5E9A294EAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78B5F88-932D-4AB7-AFC4-C5E9A294EAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C268B37F-5480-45AF-BD84-F2E0B3240711} = {EE73EB58-3206-4FA0-BA53-76D5B4205B30}
+		{4AF07C0E-4765-406C-B4FC-5AF04DB6D9EE} = {D01BEA49-D3D6-40B4-A9B9-E2554822BD4D}
+		{F855165E-2DC9-4F69-9DE7-E9985FC272AA} = {4AF07C0E-4765-406C-B4FC-5AF04DB6D9EE}
+		{269D9452-5FEB-44CD-88F1-E463CFA32C7F} = {D01BEA49-D3D6-40B4-A9B9-E2554822BD4D}
+		{6D293310-1EE5-426F-A29A-362B31FF96F9} = {269D9452-5FEB-44CD-88F1-E463CFA32C7F}
+		{EE73EB58-3206-4FA0-BA53-76D5B4205B30} = {D01BEA49-D3D6-40B4-A9B9-E2554822BD4D}
+		{8F64A09E-DD6F-4BF8-B9A7-AB99E5A49406} = {D01BEA49-D3D6-40B4-A9B9-E2554822BD4D}
+		{E78B5F88-932D-4AB7-AFC4-C5E9A294EAA4} = {8F64A09E-DD6F-4BF8-B9A7-AB99E5A49406}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F038C7BB-8FB3-4CC4-AFBB-474BDC3F7D52}
+	EndGlobalSection
+EndGlobal
