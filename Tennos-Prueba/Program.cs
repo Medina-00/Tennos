@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Tennos_Prueba.Infraestructura.persistence.Context;
 using Tennos_Prueba.Infraestructura.persistence;
+using Tennos_Prueba.Extenciones;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +13,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddPersistenceInfrastructure(builder.Configuration);
+builder.Services.AddSwaggerExtension();
+builder.Services.CORS();
+
 
 
 
@@ -25,6 +29,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+
+// Configurar la solicitud HTTP
+app.UseCors("AllowAll"); // Aplicar la política de CORS
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
